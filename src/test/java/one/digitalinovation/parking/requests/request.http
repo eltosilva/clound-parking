@@ -1,0 +1,9 @@
+POST http://localhost:8080/parkings
+Content-Type: application/json
+
+{
+  "license": "REE-1123",
+  "state": "RJ",
+  "model": "JETTA",
+  "color": "CINZA"
+}
